@@ -1,0 +1,75 @@
+/* Navbar */
+.navbar {
+  background-color: rgba(255, 255, 255, 0.541);
+}
+
+.bg {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsHNcHfz8D2gXiDCG3Y4pNK1ARZAI5kevjEA&usqp=CAU);
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+#head-icon {
+  font-size: 25px;
+}
+
+#brand,
+#head-icon {
+  color: orangered;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+#collection img {
+  width: 250px;
+  height: 200px;
+}
+
+.btn-store {
+  color: #777777;
+  min-width: 224px;
+  padding: 6px 10px;
+  border-color: #dddddd !important;
+}
+
+.btn-store:focus,
+.btn-store:hover {
+  color: #ffffff !important;
+  background-color: #168eea;
+  border-color: #168eea !important;
+}
+
+.btn-store .btn-label,
+.btn-store .btn-caption {
+  display: block;
+  text-align: left;
+  line-height: 1;
+}
+
+.btn-store .btn-caption {
+  font-size: 18px;
+}
+
+/* Footer */
+#foot {
+  background-color: rgba(245, 222, 179, 0.267);
+}
+
+#foot-head {
+  text-shadow: 2px 2px black;
+}
+.link:hover {
+  color: tomato;
+}
+
+.icon {
+  margin: 5px;
+}
+#ic {
+  font-size: 30px;
+}
+.icon:hover {
+  background-color: orangered;
+}
